@@ -17,13 +17,21 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = phanthanhkhai_2122110374_b2
 build_property.RootNamespace = phanthanhkhai_2122110374_b2
+<<<<<<< HEAD
 build_property.ProjectDir = D:\ASP.NET-main\phanthanhkhai_2122110374_b2\
+=======
+build_property.ProjectDir = D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = D:\ASP.NET-main\phanthanhkhai_2122110374_b2
+=======
+build_property.MSBuildProjectDirectory = D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 

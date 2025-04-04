@@ -169,6 +169,7 @@ D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runt
 D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+<<<<<<< HEAD
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\phanthanhkhai_2122110374_b2.exe
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\phanthanhkhai_2122110374_b2.dll
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -341,3 +342,5 @@ D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\phanthanhkhai_21221
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\obj\Debug\net8.0\phanthanhkhai_2122110374_b2.genruntimeconfig.cache
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\obj\Debug\net8.0\ref\phanthanhkhai_2122110374_b2.dll
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+=======
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf

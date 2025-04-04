@@ -5,6 +5,7 @@
     "version": "1.0"
   },
   "paths": {
+<<<<<<< HEAD
     "/api/Category": {
       "get": {
         "tags": [
@@ -315,6 +316,8 @@
         }
       }
     },
+=======
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -357,6 +360,7 @@
   },
   "components": {
     "schemas": {
+<<<<<<< HEAD
       "Category": {
         "type": "object",
         "properties": {
@@ -411,6 +415,8 @@
         },
         "additionalProperties": false
       },
+=======
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
       "WeatherForecast": {
         "type": "object",
         "properties": {

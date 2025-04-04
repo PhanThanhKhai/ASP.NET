@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\obj\\",
+=======
+    "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj": {}
+  },
+  "projects": {
+    "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+        "projectName": "phanthanhkhai_2122110374_b2",
+        "projectPath": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\obj\\",
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

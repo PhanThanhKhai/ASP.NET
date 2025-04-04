@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\ASP.NET-main\\",
   "Documents": [
     {
@@ -48,6 +49,40 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+=======
+  "WorkspaceRootPath": "D:\\phanthanhkhai_2122110374_b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -58,6 +93,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 8,
           "Children": [
             {
@@ -71,10 +107,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-04T07:58:55.55Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\appsettings.json",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\appsettings.json",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\appsettings.json",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T08:36:49.736Z",
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\appsettings.json",
@@ -96,17 +148,36 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T06:40:13.943Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:06:14.094Z",
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T07:04:19.205Z",
               "EditorCaption": ""
@@ -114,18 +185,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "phanthanhkhai_2122110374_b2.csproj",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+=======
+              "Title": "phanthanhkhai_2122110374_b2",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-28T07:02:02.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
@@ -135,11 +216,50 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T05:51:44.384Z"
+=======
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:51:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:51:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "phanthanhkhai_2122110374_b2.http",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-28T05:51:29.954Z",
+              "EditorCaption": ""
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Program.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Program.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Program.cs",
@@ -211,6 +331,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T05:51:32.124Z"
+=======
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Program.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Program.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Program.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:50:46.817Z",
+              "EditorCaption": ""
+>>>>>>> d39b22ae12239411158412d3a5fbfc8c635d7abf
             }
           ]
         }
