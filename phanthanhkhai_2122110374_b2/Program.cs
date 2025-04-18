@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -71,6 +72,24 @@ builder.Services.AddSwaggerGen(options =>
 var app = builder.Build();
 
 // Cấu hình HTTP request pipeline
+=======
+using Microsoft.EntityFrameworkCore;
+using phanthanhkhai_2122110374_b2.Data;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddDbContext<AppDbContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -79,10 +98,17 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+<<<<<<< HEAD
 // Thêm middleware để xác thực
 app.UseAuthentication();  // Dòng này là quan trọng
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
 app.UseAuthorization();
 
 app.MapControllers();
 
+<<<<<<< HEAD
 app.Run();
+=======
+app.Run();
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80

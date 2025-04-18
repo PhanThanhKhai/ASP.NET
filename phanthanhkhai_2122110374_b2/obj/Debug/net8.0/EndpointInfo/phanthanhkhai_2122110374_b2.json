@@ -1,6 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
+<<<<<<< HEAD
     "title": "MyShop API",
     "version": "v1"
   },
@@ -678,6 +679,12 @@
         }
       }
     },
+=======
+    "title": "phanthanhkhai_2122110374_b2",
+    "version": "1.0"
+  },
+  "paths": {
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -720,6 +727,7 @@
   },
   "components": {
     "schemas": {
+<<<<<<< HEAD
       "Category": {
         "type": "object",
         "properties": {
@@ -935,6 +943,8 @@
         },
         "additionalProperties": false
       },
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
       "WeatherForecast": {
         "type": "object",
         "properties": {
@@ -958,6 +968,7 @@
         },
         "additionalProperties": false
       }
+<<<<<<< HEAD
     },
     "securitySchemes": {
       "Bearer": {
@@ -973,4 +984,8 @@
       "Bearer": [ ]
     }
   ]
+=======
+    }
+  }
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
 }

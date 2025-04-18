@@ -1,10 +1,19 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using phanthanhkhai_2122110374_b2.Model;
+=======
+﻿using phanthanhkhai_2122110374_b2.Model;
+using Microsoft.EntityFrameworkCore;
+using System;
+
+
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
 
 namespace phanthanhkhai_2122110374_b2.Data
 {
     public class AppDbContext : DbContext
     {
+<<<<<<< HEAD
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<User> Users { get; set; }
@@ -36,5 +45,9 @@ namespace phanthanhkhai_2122110374_b2.Data
             //    .HasForeignKey(od => od.OrderId); // OrderId trong OrderDetail là khóa ngoại
 
         }
+=======
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public DbSet<Product> Products { get; set; }
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
     }
 }

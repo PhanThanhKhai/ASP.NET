@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
@@ -405,6 +406,8 @@
     "ReturnTypes": []
   },
   {
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
