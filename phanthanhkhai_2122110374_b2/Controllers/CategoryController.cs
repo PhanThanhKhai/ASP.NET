@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Mvc;
+=======
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
 using Microsoft.EntityFrameworkCore;
 using phanthanhkhai_2122110374_b2.Data;
 using phanthanhkhai_2122110374_b2.DTO;
@@ -6,6 +11,10 @@ using phanthanhkhai_2122110374_b2.Model;
 
 namespace phanthanhkhai_2122110374_b2.Controllers
 {
+<<<<<<< HEAD
+=======
+    [Authorize]
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase

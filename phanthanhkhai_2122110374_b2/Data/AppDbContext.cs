@@ -1,10 +1,27 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using phanthanhkhai_2122110374_b2.Model;
+=======
+<<<<<<< HEAD
+﻿using Microsoft.EntityFrameworkCore;
+using phanthanhkhai_2122110374_b2.Model;
+=======
+﻿using phanthanhkhai_2122110374_b2.Model;
+using Microsoft.EntityFrameworkCore;
+using System;
+
+
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
 
 namespace phanthanhkhai_2122110374_b2.Data
 {
     public class AppDbContext : DbContext
     {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<User> Users { get; set; }
@@ -19,6 +36,7 @@ namespace phanthanhkhai_2122110374_b2.Data
 
             // Mối quan hệ giữa Product và Category
             modelBuilder.Entity<Product>()
+<<<<<<< HEAD
                 .HasOne(p => p.Category)
                 .WithMany(c => c.Products)
                 .HasForeignKey(p => p.Cat_Id);
@@ -40,5 +58,28 @@ namespace phanthanhkhai_2122110374_b2.Data
             //     .WithMany(o => o.OrderDetails)
             //     .HasForeignKey(od => od.OrderId);
         }
+=======
+                .HasOne(p => p.Category) // Mỗi Product có một Category
+                .WithMany(c => c.Products) // Mỗi Category có nhiều Products
+                .HasForeignKey(p => p.Cat_Id); // Cat_Id trong Product là khóa ngoại
+
+            // Mối quan hệ giữa Order và User
+            modelBuilder.Entity<Order>()
+                .HasOne(o => o.User)  // Mỗi Order có một User
+                .WithMany(u => u.Orders)  // Mỗi User có nhiều Orders
+                .HasForeignKey(o => o.UserId); // UserId trong Order là khóa ngoại
+
+            //// Mối quan hệ giữa Order và OrderDetail
+            //modelBuilder.Entity<OrderDetail>()
+            //    .HasOne(od => od.Order) // Mỗi OrderDetail thuộc về một Order
+            //    .WithMany(o => o.OrderDetails) // Một Order có nhiều OrderDetails
+            //    .HasForeignKey(od => od.OrderId); // OrderId trong OrderDetail là khóa ngoại
+
+        }
+=======
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public DbSet<Product> Products { get; set; }
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     }
 }

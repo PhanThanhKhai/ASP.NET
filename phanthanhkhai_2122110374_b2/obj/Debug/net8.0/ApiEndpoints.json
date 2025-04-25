@@ -1,5 +1,9 @@
 [
   {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
@@ -16,6 +20,7 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.AuthController",
     "Method": "GetUsernameById",
     "RelativePath": "api/Auth/name/{id}",
@@ -42,6 +47,8 @@
     "ReturnTypes": []
   },
   {
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.CategoryController",
     "Method": "GetCategories",
     "RelativePath": "api/Category",
@@ -399,6 +406,7 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.ProductController",
     "Method": "GetProductsByCategory",
     "RelativePath": "api/Product/category/{categoryId}",
@@ -431,6 +439,8 @@
     "ReturnTypes": []
   },
   {
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/User/login",
@@ -463,6 +473,11 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "ContainingType": "phanthanhkhai_2122110374_b2.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

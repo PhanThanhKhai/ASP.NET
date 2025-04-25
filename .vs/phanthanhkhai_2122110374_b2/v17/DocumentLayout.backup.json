@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\ASP.NET-main\\",
   "Documents": [
     {
@@ -31,10 +32,17 @@
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\ASP.NET-main\\",
+  "Documents": [
+    {
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,10 +71,13 @@
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,14 +100,83 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+=======
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\model\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -107,8 +187,56 @@
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\asp.net-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+  "WorkspaceRootPath": "D:\\phanthanhkhai_2122110374_b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|d:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6D605371-EBF4-4164-9D7B-6DD7E37253DE}|phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj|solutionrelative:phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     }
   ],
   "DocumentGroupContainers": [
@@ -118,6 +246,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -151,18 +280,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Program.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Program.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Program.cs",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T05:50:46.817Z"
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:50:46.817Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\appsettings.json",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\appsettings.json",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\appsettings.json",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T08:36:49.736Z",
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+              "EditorCaption": ""
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
@@ -171,11 +331,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T07:04:19.205Z",
+=======
+<<<<<<< HEAD
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:33:37.532Z",
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\AuthController.cs",
@@ -213,11 +385,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\UserController.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\UserController.cs",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\UserController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAGAAAAAAAAAAAAAcwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T08:02:30.642Z"
@@ -233,34 +408,191 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-24T05:04:46.351Z"
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:02:30.642Z",
+=======
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:06:14.094Z",
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+<<<<<<< HEAD
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:29:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Mapping\\Mapping.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Mapping\\Mapping.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Mapping\\Mapping.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Mapping\\Mapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:14:50.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\DTO\\OrderDTO.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:51:21.985Z",
+              "EditorCaption": ""
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+<<<<<<< HEAD
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\appsettings.json",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\appsettings.json*",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T06:58:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:33:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:53:02.658Z",
+=======
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:04:19.205Z",
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\OrderDetailController.cs*",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\OrderDetailController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:32:35.72Z",
+=======
+              "Title": "phanthanhkhai_2122110374_b2",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T07:02:02.896Z",
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:04:19.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "Order_Detail.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Order_Detail.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\Order_Detail.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Order_Detail.cs",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Model\\Order_Detail.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:27:11.261Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 13,
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "User.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\User.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\User.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\User.cs",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Model\\User.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T07:37:39.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+<<<<<<< HEAD
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\DTO\\CategoryDTO.cs",
@@ -297,18 +629,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Order.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\Order.cs",
               "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Order.cs",
               "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Model\\Order.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxUAAAAAAAAAAAAAAA==",
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:26:57.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+<<<<<<< HEAD
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\ProductController.cs",
@@ -329,10 +668,59 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAA8wA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T05:57:21.054Z"
+=======
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\DTO\\OrderDetailDTO.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\OrderDetailDTO.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\DTO\\OrderDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:48:58.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:57:16.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:57:09.873Z"
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+<<<<<<< HEAD
+=======
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:06:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Model\\Category.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Model\\Category.cs",
@@ -344,6 +732,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\CategoryController.cs",
@@ -377,10 +766,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-24T03:37:48.54Z"
+=======
+              "DocumentIndex": 16,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\DTO\\ProductDTO.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:57:21.054Z"
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+<<<<<<< HEAD
               "Title": "phanthanhkhai_2122110374_b2.csproj",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
@@ -429,6 +830,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 25,
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
@@ -440,6 +843,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 26,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\OrderDetailController.cs",
@@ -449,6 +853,104 @@
               "ViewState": "AgIAAEoAAAAAAAAAAAA6wG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:32:35.72Z"
+=======
+              "DocumentIndex": 22,
+              "Title": "phanthanhkhai_2122110374_b2.http",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-28T05:51:29.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "phanthanhkhai_2122110374_b2.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj.Backup.tmp",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj.Backup.tmp",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T06:41:06.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:51:44.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "phanthanhkhai_2122110374_b2.csproj",
+              "DocumentMoniker": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "ToolTip": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T07:02:02.896Z"
+=======
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:51:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:51:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "phanthanhkhai_2122110374_b2.http",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-28T05:51:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Program.cs",
+              "RelativeDocumentMoniker": "phanthanhkhai_2122110374_b2\\Program.cs",
+              "ToolTip": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\Program.cs",
+              "RelativeToolTip": "phanthanhkhai_2122110374_b2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:50:46.817Z",
+              "EditorCaption": ""
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             }
           ]
         }

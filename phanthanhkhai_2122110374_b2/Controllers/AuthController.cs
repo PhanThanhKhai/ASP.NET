@@ -6,7 +6,10 @@ using System.Security.Claims;
 using System.Text;
 using phanthanhkhai_2122110374_b2.Data;
 using phanthanhkhai_2122110374_b2.Model;
+<<<<<<< HEAD
 using BCrypt.Net; // Thư viện BCrypt
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
 
 namespace phanthanhkhai_2122110374_b2.Controllers
 {
@@ -23,6 +26,7 @@ namespace phanthanhkhai_2122110374_b2.Controllers
             _configuration = configuration;
         }
 
+<<<<<<< HEAD
         // Đăng nhập
         [HttpPost("login")]
         public IActionResult Login([FromBody] LoginModel loginModel)
@@ -49,6 +53,21 @@ namespace phanthanhkhai_2122110374_b2.Controllers
         }
 
         // Tạo JWT Token
+=======
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] LoginModel loginModel)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Username == loginModel.Username && u.Password == loginModel.Password);
+            if (user == null)
+            {
+                return Unauthorized("Invalid credentials");
+            }
+
+            var token = GenerateJwtToken(user);
+            return Ok(new { token });
+        }
+
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
         private string GenerateJwtToken(User user)
         {
             var claims = new[]
@@ -63,15 +82,22 @@ namespace phanthanhkhai_2122110374_b2.Controllers
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
+<<<<<<< HEAD
                 issuer: _configuration["Jwt:Issuer"],
                 audience: _configuration["Jwt:Audience"],
                 claims: claims,
+=======
+                _configuration["Jwt:Issuer"],
+                _configuration["Jwt:Audience"],
+                claims,
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
                 expires: DateTime.Now.AddHours(1),
                 signingCredentials: creds
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+<<<<<<< HEAD
 
         // Lấy tất cả username
         [HttpGet("names")]
@@ -105,3 +131,14 @@ namespace phanthanhkhai_2122110374_b2.Controllers
         public string Password { get; set; }
     }
 }
+=======
+    }
+
+    // Model cho login
+    public class LoginModel
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143

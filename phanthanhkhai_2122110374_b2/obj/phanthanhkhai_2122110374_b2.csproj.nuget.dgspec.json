@@ -1,6 +1,10 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj": {}
   },
   "projects": {
@@ -10,14 +14,36 @@
         "projectUniqueName": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
         "projectName": "phanthanhkhai_2122110374_b2",
         "projectPath": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+<<<<<<< HEAD
         "packagesPath": "C:\\Users\\PHAN THANH KHAI\\.nuget\\packages\\",
         "outputPath": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\obj\\",
+=======
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\obj\\",
+=======
+    "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj": {}
+  },
+  "projects": {
+    "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+        "projectName": "phanthanhkhai_2122110374_b2",
+        "projectPath": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\phanthanhkhai_2122110374_b2\\phanthanhkhai_2122110374_b2\\obj\\",
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\PHAN THANH KHAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,12 +70,20 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
+<<<<<<< HEAD
         "SdkAnalysisLevel": "9.0.200"
+=======
+        "SdkAnalysisLevel": "9.0.100"
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             "AutoMapper": {
               "target": "Package",
               "version": "[14.0.0, )"
@@ -62,6 +96,11 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.3, )"
@@ -100,7 +139,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
         }
       }
     }

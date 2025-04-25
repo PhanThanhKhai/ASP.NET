@@ -1,6 +1,10 @@
 {
   "openapi": "3.0.1",
   "info": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "title": "MyShop API",
     "version": "v1"
   },
@@ -36,6 +40,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/Auth/names": {
       "get": {
         "tags": [
@@ -71,6 +76,8 @@
         }
       }
     },
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "/api/Category": {
       "get": {
         "tags": [
@@ -651,6 +658,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/Product/Product/{id}/image": {
       "get": {
         "tags": [
@@ -697,6 +705,8 @@
         }
       }
     },
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "/api/User/register": {
       "post": {
         "tags": [
@@ -759,6 +769,15 @@
         }
       }
     },
+<<<<<<< HEAD
+=======
+=======
+    "title": "phanthanhkhai_2122110374_b2",
+    "version": "1.0"
+  },
+  "paths": {
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -801,6 +820,10 @@
   },
   "components": {
     "schemas": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
       "Category": {
         "type": "object",
         "properties": {
@@ -847,7 +870,11 @@
       "LoginModel": {
         "type": "object",
         "properties": {
+<<<<<<< HEAD
           "email": {
+=======
+          "username": {
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
             "type": "string",
             "nullable": true
           },
@@ -921,10 +948,13 @@
             "type": "string",
             "nullable": true
           },
+<<<<<<< HEAD
           "description": {
             "type": "string",
             "nullable": true
           },
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
           "price": {
             "type": "integer",
             "format": "int32"
@@ -968,10 +998,13 @@
             "type": "string",
             "nullable": true
           },
+<<<<<<< HEAD
           "description": {
             "type": "string",
             "nullable": true
           },
+=======
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
           "price": {
             "type": "integer",
             "format": "int32"
@@ -1024,6 +1057,11 @@
         },
         "additionalProperties": false
       },
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
       "WeatherForecast": {
         "type": "object",
         "properties": {
@@ -1047,6 +1085,10 @@
         },
         "additionalProperties": false
       }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     },
     "securitySchemes": {
       "Bearer": {
@@ -1062,4 +1104,11 @@
       "Bearer": [ ]
     }
   ]
+<<<<<<< HEAD
+=======
+=======
+    }
+  }
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
 }

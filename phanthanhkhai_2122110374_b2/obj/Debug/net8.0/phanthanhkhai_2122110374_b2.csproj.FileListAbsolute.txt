@@ -169,6 +169,10 @@ D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runt
 D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\phanthanhkhai_2122110374_b2\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\appsettings.Development.json
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\appsettings.json
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\phanthanhkhai_2122110374_b2.staticwebassets.endpoints.json
@@ -343,5 +347,11 @@ D:\ASP.NET-main\phanthanhkhai_2122110374_b2\obj\Debug\net8.0\ref\phanthanhkhai_2
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\BCrypt.Net-Next.dll
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\AutoMapper.dll
+<<<<<<< HEAD
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\bin\Debug\net8.0\phanthanhkhai_2122110374_b2.staticwebassets.runtime.json
 D:\ASP.NET-main\phanthanhkhai_2122110374_b2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+=======
+D:\ASP.NET-main\phanthanhkhai_2122110374_b2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+=======
+>>>>>>> a1f9e34a94f441d7bab6de9059b0ebd972d3cb80
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143

@@ -1,11 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "1qW7rva89mKY7mCeLccLDpWxzwHc2rwOLrJm+dUp+Ew=",
+=======
+  "Hash": "qW5gcY8mtwHzbdSlbAl8txmKupABIiCuPnBpu75LBP8=",
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
   "Source": "phanthanhkhai_2122110374_b2",
   "BasePath": "_content/phanthanhkhai_2122110374_b2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
+<<<<<<< HEAD
   "DiscoveryPatterns": [
     {
       "Name": "phanthanhkhai_2122110374_b2\\wwwroot",
@@ -637,4 +642,9 @@
       ]
     }
   ]
+=======
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
 }

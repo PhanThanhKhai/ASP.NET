@@ -5,9 +5,17 @@ using phanthanhkhai_2122110374_b2.Data;
 using phanthanhkhai_2122110374_b2.Model;
 using phanthanhkhai_2122110374_b2.DTO;
 using AutoMapper;
+<<<<<<< HEAD
 
 namespace phanthanhkhai_2122110374_b2.Controllers
 {
+=======
+using Microsoft.AspNetCore.Authorization;
+
+namespace phanthanhkhai_2122110374_b2.Controllers
+{
+    [Authorize]
+>>>>>>> 089519067c6c5c95a653b64ae86d63b6c8803143
     [ApiController]
     [Route("api/[controller]")]
     public class OrderDetailController : ControllerBase
