@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\product2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\product3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product4.jpg",
+      "PackagePath": "staticwebassets\\images\\product4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\product5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product6.jpg",
+      "PackagePath": "staticwebassets\\images\\product6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.phanthanhkhai_2122110374_b2.props",
+      "PackagePath": "build\\phanthanhkhai_2122110374_b2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.phanthanhkhai_2122110374_b2.props",
+      "PackagePath": "buildMultiTargeting\\phanthanhkhai_2122110374_b2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.phanthanhkhai_2122110374_b2.props",
+      "PackagePath": "buildTransitive\\phanthanhkhai_2122110374_b2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.phanthanhkhai_2122110374_b2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.phanthanhkhai_2122110374_b2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "1qW7rva89mKY7mCeLccLDpWxzwHc2rwOLrJm+dUp+Ew=",
+  "Source": "phanthanhkhai_2122110374_b2",
+  "BasePath": "_content/phanthanhkhai_2122110374_b2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "phanthanhkhai_2122110374_b2\\wwwroot",
+      "Source": "phanthanhkhai_2122110374_b2",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product1.jpg",
+      "SourceId": "phanthanhkhai_2122110374_b2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "RelativePath": "images/product1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0flibf3kqb",
+      "Integrity": "FAz5Djxr2HW712tcYo6QwKF0/aFdeam7i6MCuu/2zzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product1.jpg"
+    },
+    {
+      "Identity": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product2.jpg",
+      "SourceId": "phanthanhkhai_2122110374_b2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "RelativePath": "images/product2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "scoyp8h5z4",
+      "Integrity": "zNiIBOrcV/toW16TZf0rGJC53lFywgB3+cixdk2f0bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product2.jpg"
+    },
+    {
+      "Identity": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product3.jpg",
+      "SourceId": "phanthanhkhai_2122110374_b2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "RelativePath": "images/product3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zohr6v93cs",
+      "Integrity": "rXtah6mSFbWVO/nZ8VKCyUzgJD7zkJz/I/YcekZECm8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product3.jpg"
+    },
+    {
+      "Identity": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product4.jpg",
+      "SourceId": "phanthanhkhai_2122110374_b2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "RelativePath": "images/product4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6f37mwpokz",
+      "Integrity": "EvP7kppFR3cVyw2IG25jwEGrNUP4uA5vr2r90VzQpUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product4.jpg"
+    },
+    {
+      "Identity": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product5.jpg",
+      "SourceId": "phanthanhkhai_2122110374_b2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "RelativePath": "images/product5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k7oh09q9wa",
+      "Integrity": "0DhsM6gbKb5WSY1QpurN3cLOiHrCtHbH8IbDh6H0Qpw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product5.jpg"
+    },
+    {
+      "Identity": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product6.jpg",
+      "SourceId": "phanthanhkhai_2122110374_b2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\",
+      "BasePath": "_content/phanthanhkhai_2122110374_b2",
+      "RelativePath": "images/product6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwpmcxq21c",
+      "Integrity": "ZQMIB9d8+hKJ0gEddUc7VfN5okV3LPPUxeT8Q6GOBmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product6.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/product1.0flibf3kqb.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAz5Djxr2HW712tcYo6QwKF0/aFdeam7i6MCuu/2zzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 03:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0flibf3kqb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAz5Djxr2HW712tcYo6QwKF0/aFdeam7i6MCuu/2zzk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product1.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAz5Djxr2HW712tcYo6QwKF0/aFdeam7i6MCuu/2zzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 03:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAz5Djxr2HW712tcYo6QwKF0/aFdeam7i6MCuu/2zzk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product2.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zNiIBOrcV/toW16TZf0rGJC53lFywgB3+cixdk2f0bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 04:38:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zNiIBOrcV/toW16TZf0rGJC53lFywgB3+cixdk2f0bg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product2.scoyp8h5z4.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zNiIBOrcV/toW16TZf0rGJC53lFywgB3+cixdk2f0bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 04:38:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "scoyp8h5z4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zNiIBOrcV/toW16TZf0rGJC53lFywgB3+cixdk2f0bg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product3.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXtah6mSFbWVO/nZ8VKCyUzgJD7zkJz/I/YcekZECm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 04:40:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXtah6mSFbWVO/nZ8VKCyUzgJD7zkJz/I/YcekZECm8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product3.zohr6v93cs.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXtah6mSFbWVO/nZ8VKCyUzgJD7zkJz/I/YcekZECm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 04:40:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zohr6v93cs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXtah6mSFbWVO/nZ8VKCyUzgJD7zkJz/I/YcekZECm8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product4.6f37mwpokz.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvP7kppFR3cVyw2IG25jwEGrNUP4uA5vr2r90VzQpUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6f37mwpokz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvP7kppFR3cVyw2IG25jwEGrNUP4uA5vr2r90VzQpUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/product4.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvP7kppFR3cVyw2IG25jwEGrNUP4uA5vr2r90VzQpUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvP7kppFR3cVyw2IG25jwEGrNUP4uA5vr2r90VzQpUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/product5.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0DhsM6gbKb5WSY1QpurN3cLOiHrCtHbH8IbDh6H0Qpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 14:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0DhsM6gbKb5WSY1QpurN3cLOiHrCtHbH8IbDh6H0Qpw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product5.k7oh09q9wa.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0DhsM6gbKb5WSY1QpurN3cLOiHrCtHbH8IbDh6H0Qpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 14:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7oh09q9wa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0DhsM6gbKb5WSY1QpurN3cLOiHrCtHbH8IbDh6H0Qpw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product6.bwpmcxq21c.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZQMIB9d8+hKJ0gEddUc7VfN5okV3LPPUxeT8Q6GOBmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 14:05:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwpmcxq21c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZQMIB9d8+hKJ0gEddUc7VfN5okV3LPPUxeT8Q6GOBmk="
+        }
+      ]
+    },
+    {
+      "Route": "images/product6.jpg",
+      "AssetFile": "D:\\ASP.NET-main\\phanthanhkhai_2122110374_b2\\wwwroot\\images\\product6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZQMIB9d8+hKJ0gEddUc7VfN5okV3LPPUxeT8Q6GOBmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 14:05:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZQMIB9d8+hKJ0gEddUc7VfN5okV3LPPUxeT8Q6GOBmk="
+        }
+      ]
+    }
+  ]
+}
